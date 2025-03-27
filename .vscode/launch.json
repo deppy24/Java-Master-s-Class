@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "Indexes",
+            "request": "launch",
+            "mainClass": "Indexes",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "Askisi5",
+            "request": "launch",
+            "mainClass": "Lab3.Askisi5",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "Askisi7",
+            "request": "launch",
+            "mainClass": "Lab3.Askisi7",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "Askisi8",
+            "request": "launch",
+            "mainClass": "Lab3.Askisi8",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "Askisi9",
+            "request": "launch",
+            "mainClass": "Lab3.Askisi9",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "Game",
+            "request": "launch",
+            "mainClass": "Lab3.Game",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "GameTalk",
+            "request": "launch",
+            "mainClass": "Lab3.GameTalk",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Lab3.Test",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "TestInteger",
+            "request": "launch",
+            "mainClass": "Lab3.TestInteger",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "Twocats",
+            "request": "launch",
+            "mainClass": "Lab3.Twocats",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "NameSurname",
+            "request": "launch",
+            "mainClass": "NameSurname",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "MarkCalculator",
+            "request": "launch",
+            "mainClass": "Project1.EXE1.MarkCalculator",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "Propaideia",
+            "request": "launch",
+            "mainClass": "Propaideia",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "Rectangular",
+            "request": "launch",
+            "mainClass": "Rectangular",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        }
+    ]
+}
