@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TwoDImensionAddition",
+            "request": "launch",
+            "mainClass": "Lab5.TwoDImensionAddition",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "TwoDimensionArray",
+            "request": "launch",
+            "mainClass": "Lab5.TwoDimensionArray",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "Max",
+            "request": "launch",
+            "mainClass": "Lab5.Max",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Lab5.Array",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
