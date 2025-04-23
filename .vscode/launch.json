@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Project2.Pro2.Exercise2.Main",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Project2.Pro2.Exercise1.Main",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
             "name": "TwoDImensionAddition",
             "request": "launch",
             "mainClass": "Lab5.TwoDImensionAddition",
