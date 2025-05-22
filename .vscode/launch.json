@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EmployeeHierarchy",
+            "request": "launch",
+            "mainClass": "EmployeeHierarchy",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "ShoppingList",
+            "request": "launch",
+            "mainClass": "ShoppingList",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "ShoppingList",
+            "request": "launch",
+            "mainClass": "Project4.ShoppingList",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
             "name": "Main2",
             "request": "launch",
             "mainClass": "Project3.Main2",
