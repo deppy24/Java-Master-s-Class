@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Employees22",
+            "request": "launch",
+            "mainClass": "Employees22",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
             "name": "EmployeeHierarchy",
             "request": "launch",
             "mainClass": "EmployeeHierarchy",
