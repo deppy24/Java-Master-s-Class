@@ -11,7 +11,7 @@ public class GuessGame {
     // Constructor of the class, which sets the limit N and calculates the random number
     public GuessGame(int maxNumber) {
         if (maxNumber <= 0) {
-            this.maxNumber = 100;  // If maxNumber is invalid (<= 0), set the default value to 200
+            this.maxNumber = 200;  // If maxNumber is invalid (<= 0), set the default value to 200
             System.out.println("Invalid maximum number. Setting the maximum number to 200.");
         } else {
             this.maxNumber = maxNumber;

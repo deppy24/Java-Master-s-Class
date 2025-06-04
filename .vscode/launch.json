@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Anametrisi",
+            "request": "launch",
+            "mainClass": "FinalProject.Anametrisi",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "GuessGame",
+            "request": "launch",
+            "mainClass": "Project1.EXE2.GuessGame",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
+            "name": "ContactManager",
+            "request": "launch",
+            "mainClass": "Project3.ContactManager",
+            "projectName": "Java-Master-s-Class_71bf6678"
+        },
+        {
+            "type": "java",
             "name": "Employees22",
             "request": "launch",
             "mainClass": "Employees22",
